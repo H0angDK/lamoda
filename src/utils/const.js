@@ -1,0 +1,5 @@
+export const SORT_PRICE_ASC = "SORT_PRICE_ASC";
+export const SORT_PRICE_DESC = "SORT_PRICE_DESC";
+export const SORT_RATING = "SORT_RATING";
+export const SET_PRODUCT = 'SET_PRODUCT';
+export const MULTISELECT = "MULTISELECT"
